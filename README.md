@@ -45,8 +45,8 @@ NyayBot/
 ├── public/        # Static assets
 ├── src/           # Source files and components
 └── README.md
+```
 <hr>
-
 ## Future Improvements
 
 - AI chatbot integration
