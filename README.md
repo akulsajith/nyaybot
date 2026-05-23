@@ -1,34 +1,50 @@
 # NyayBot ⚖️
 
-AI-powered legal notice generator built using the MERN stack with authentication and PDF export functionality.
-
-<hr>
-
-## Tech Stack
-
-- MongoDB
-- Express.js
-- React.js
-- Node.js
-- JWT Authentication
-- PDF Generation
+NyayBot is an AI-powered legal notice generator built using the MERN stack.  
+The project simplifies the process of drafting legal notices through an intuitive workflow, authentication system, and PDF export functionality.
 
 <hr>
 
 ## Features
 
-- AI-assisted legal notice drafting
-- JWT-based authentication system
-- User-friendly workflow for legal notice generation
+- AI-assisted legal notice generation
+- Secure JWT authentication
+- User-friendly interface for creating notices
 - PDF export functionality
-- Frontend and backend integration
+- Full-stack MERN architecture
+- Structured legal notice workflow
 
 <hr>
 
-## Project Overview
+## Tech Stack
 
-NyayBot simplifies the process of generating legal notices by providing an accessible workflow based on Indian consumer law concepts.
+### Frontend
+- React.js
+- CSS
 
+### Backend
+- Node.js
+- Express.js
+
+### Database
+- MongoDB
+
+### Authentication & Utilities
+- JWT Authentication
+- PDF Generation
+
+<hr>
+
+## Project Structure
+
+```bash
+NyayBot/
+│
+├── client/        # Frontend application
+├── server/        # Backend APIs and authentication
+├── public/        # Static assets
+├── src/           # Source files and components
+└── README.md
 <hr>
 
 ## Future Improvements
