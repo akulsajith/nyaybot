@@ -47,6 +47,7 @@ NyayBot/
 └── README.md
 ```
 <hr>
+
 ## Future Improvements
 
 - AI chatbot integration
